@@ -30,7 +30,7 @@ app.layout = html.Div(children=[
     html.Div(children=[
         
             html.H1(children='ZOMATO DASHBOARD'), 
-            html.Div(children='A one-stop dashboard to get all your information about Zomato')],
+            html.Div(children='BY SIDDHARTH MADHAVAN YEAH')],
             style={'textAlign': 'center','backgroundColor':'#E23744','color': 'white','font-family':['Open Sans','sans-serif'], 
                    'font-style': ['italic'],'padding-top':'20px','padding-bottom':'40px','fontSize':17}
             ),
