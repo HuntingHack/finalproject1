@@ -185,7 +185,7 @@ app.layout = html.Div(children=[
     #This is the footer of the dashboard
     html.Div(children=[
          
-            html.Div(children='Created by clevered')],
+            html.Div(children='Created in Clevered AI EXP LV3')],
             style={'textAlign': 'center','backgroundColor':'#E23744','color': 'white','font-family':['Open Sans','sans-serif'], 
                    'font-style': ['italic'],'padding-top':'20px','padding-bottom':'20px','fontSize':17}
             )
